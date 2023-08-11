@@ -1,0 +1,2438 @@
+[
+  {
+    "vlog": [
+      {
+        "id": "268ab562-0d39-4e31-9e35-5b3de08f7238",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-10T22:58:52.982Z",
+        "updated_at": "2023-08-11T07:04:15.503Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aeab80b5-38f9-410c-86da-21dff79bed85",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T20:33:15.849Z",
+        "updated_at": "2023-08-11T08:13:52.157Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8e46aa3-12fb-4c94-b88c-41f47de7bb85",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-11T01:12:59.426Z",
+        "updated_at": "2023-08-11T07:58:27.245Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45b11dea-09b5-480e-afde-f47f8d83dbdc",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-10T17:19:10.353Z",
+        "updated_at": "2023-08-11T09:22:41.950Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c016a03-85a3-4b8d-8578-17bc3d7ef257",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T20:01:12.231Z",
+        "updated_at": "2023-08-11T01:41:22.957Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "12b592c7-8545-4575-9695-a79711368aaf",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-10T19:09:55.467Z",
+        "updated_at": "2023-08-11T07:00:14.765Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8a0a7d6-f845-42a6-9929-5e0f77398ce9",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-10T23:38:10.529Z",
+        "updated_at": "2023-08-11T00:56:04.818Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2560737b-bdc8-47e9-a1ce-8eb1b25e6f9d",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T11:25:10.978Z",
+        "updated_at": "2023-08-10T20:29:01.002Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebee22a8-2677-44f2-957e-13445cf6e5df",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-10T19:05:54.728Z",
+        "updated_at": "2023-08-10T20:01:47.421Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f676c6ea-a6af-4095-a5be-445d6b8a071b",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-11T09:37:09.278Z",
+        "updated_at": "2023-08-11T02:21:08.173Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "6edb320e-3f63-4710-a6e2-fbdb8f57e767",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-10T19:53:07.490Z",
+        "updated_at": "2023-08-10T18:25:17.977Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d11c6e0a-50b0-4294-afdc-6297b8d74462",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-10T22:50:58.368Z",
+        "updated_at": "2023-08-10T13:31:22.197Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adf04fba-2583-48d4-831e-f9fa8fd6e65f",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-10T13:50:45.084Z",
+        "updated_at": "2023-08-11T05:06:34.420Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7ce71ab-b1a6-4dce-8dbd-3a9950a184f1",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-11T05:33:41.885Z",
+        "updated_at": "2023-08-11T00:13:46.318Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "062de755-ebce-4874-8fef-b893b02b94b2",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports from our journalists",
+        "created_at": "2023-08-10T15:34:35.230Z",
+        "updated_at": "2023-08-10T11:26:23.115Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "e0757307-9925-45a5-a889-bc98e467deb2",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-11T00:27:01.724Z",
+        "updated_at": "2023-08-10T14:45:42.437Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cc77bf1-5968-4f50-9c60-12c8fcd9b27b",
+        "title": "Sports Forum",
+        "description": "Engage in conversations about your favorite sports",
+        "created_at": "2023-08-11T00:10:16.137Z",
+        "updated_at": "2023-08-11T04:50:36.762Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67bf62a4-a0b1-4c58-ac8c-17e3ae6937a0",
+        "title": "Music Forum",
+        "description": "Share your love for music with fellow enthusiasts",
+        "created_at": "2023-08-10T21:35:32.680Z",
+        "updated_at": "2023-08-10T19:20:35.725Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a1fda6d-e6a3-4c3d-9d8d-1d7b9b1d41d1",
+        "title": "Art Forum",
+        "description": "Connect with artists and discuss various art forms",
+        "created_at": "2023-08-10T21:07:56.776Z",
+        "updated_at": "2023-08-10T11:56:14.794Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2866d752-0f70-4f27-92f7-d22ab2240e26",
+        "title": "Science Forum",
+        "description": "Explore the wonders of science and engage in scientific discussions",
+        "created_at": "2023-08-10T13:16:37.515Z",
+        "updated_at": "2023-08-10T17:20:15.346Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "fd1e25d5-feb2-4675-8c7d-71f823a60445",
+        "title": "Music Festival",
+        "description": "Experience the best music performances at our annual music festival",
+        "date": "2023-08-11T02:25:42.732Z",
+        "created_at": "2023-08-11T09:53:24.734Z",
+        "updated_at": "2023-08-11T06:24:22.152Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79a731f2-ffb6-4bd8-bcdd-bb159d2446a2",
+        "title": "Charity Gala",
+        "description": "Join us for a glamorous charity gala supporting a great cause",
+        "date": "2023-08-10T23:30:44.550Z",
+        "created_at": "2023-08-10T19:50:42.677Z",
+        "updated_at": "2023-08-10T14:21:27.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c54df023-2a67-4438-9d1e-29072a3d2a8c",
+        "title": "Tech Conference",
+        "description": "Stay up-to-date with the latest tech trends at our tech conference",
+        "date": "2023-08-11T04:20:55.328Z",
+        "created_at": "2023-08-11T07:31:11.080Z",
+        "updated_at": "2023-08-10T16:18:57.322Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3b40dca-e2be-4fc4-9966-263e67836513",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our art exhibition",
+        "date": "2023-08-10T12:47:21.041Z",
+        "created_at": "2023-08-11T00:23:07.777Z",
+        "updated_at": "2023-08-11T09:51:17.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a5e8599-755c-48e9-a946-9085c3aae8db",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our sports tournament",
+        "date": "2023-08-11T09:48:02.583Z",
+        "created_at": "2023-08-10T19:56:55.690Z",
+        "updated_at": "2023-08-10T19:50:32.621Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "39be5c47-5288-4d00-961b-799e1a71630f",
+        "name": "Alex",
+        "description": "Meet Alex, your friendly chat bot ready to assist you",
+        "created_at": "2023-08-10T20:16:41.542Z",
+        "updated_at": "2023-08-10T20:37:26.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2a140d3-dcdb-4804-82fb-eaa9888d6dd4",
+        "name": "Sophia",
+        "description": "Say hello to Sophia, the intelligent chat bot at your service",
+        "created_at": "2023-08-11T10:43:22.324Z",
+        "updated_at": "2023-08-11T08:02:22.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "801f944e-c47b-4cf2-818d-d67df3516a4b",
+        "name": "Max",
+        "description": "Max is here to help you with any questions or concerns",
+        "created_at": "2023-08-10T17:32:46.186Z",
+        "updated_at": "2023-08-11T09:47:53.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9cf01ae0-b3cd-4fa7-94df-d3b2e5274c68",
+        "name": "Lily",
+        "description": "Lily is a knowledgeable chat bot here to provide support",
+        "created_at": "2023-08-10T19:53:38.069Z",
+        "updated_at": "2023-08-11T09:41:17.710Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3793119a-c449-4af1-8654-b0700947d121",
+        "name": "Charlie",
+        "description": "Charlie is a reliable chat bot designed to make your life easier",
+        "created_at": "2023-08-11T01:46:22.885Z",
+        "updated_at": "2023-08-10T21:48:14.306Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "6f9f93bb-b835-4fdd-b606-d0ffd540131e",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips for your next adventure",
+        "created_at": "2023-08-10T14:42:14.581Z",
+        "updated_at": "2023-08-11T09:20:16.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ed65772-f8ef-4da0-924c-1a0dc9eb0078",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and healthy recipes for a balanced lifestyle",
+        "created_at": "2023-08-10T15:17:23.041Z",
+        "updated_at": "2023-08-11T02:21:33.843Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6622bd28-b19f-4dd9-9325-88e9676a902f",
+        "title": "Career Advice",
+        "content": "Get valuable career advice to advance in your profession",
+        "created_at": "2023-08-10T16:46:33.412Z",
+        "updated_at": "2023-08-10T18:29:14.970Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3463566-1f89-4a02-9fc0-0f50bf450f7e",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for your home decor with creative ideas",
+        "created_at": "2023-08-11T06:17:32.427Z",
+        "updated_at": "2023-08-11T06:20:41.564Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fb421b8-7d38-4a3a-99fd-b915396e6e97",
+        "title": "Book Recommendations",
+        "content": "Get lost in captivating stories with our book recommendations",
+        "created_at": "2023-08-11T07:18:51.423Z",
+        "updated_at": "2023-08-10T15:23:04.371Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f3f7a9a8-567d-4dcc-92b2-666eea578c07",
+        "email": "Jacques_Huel@yahoo.com",
+        "firstName": "Mohammad",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/966.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bc56d83c-7a16-46df-8504-3d2528dd9e16",
+        "email": "Issac_Friesen60@gmail.com",
+        "firstName": "Philip",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89363414",
+        "tenantId": null
+      },
+      {
+        "reference": "36d0b6c0-618f-42a6-83f6-4561f17e5d9b",
+        "email": "Duane_Little62@gmail.com",
+        "firstName": "Russel",
+        "lastName": "DuBuque-Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/498.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "94bb7d80-9e0c-4b78-8540-fb15a3519cf9",
+        "email": "Kaylie49@gmail.com",
+        "firstName": "Dolores",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26382140",
+        "tenantId": null
+      },
+      {
+        "reference": "ed5cfaff-3eb5-4b80-905c-197c98fcd355",
+        "email": "Cheyenne34@yahoo.com",
+        "firstName": "Isabel",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53740102",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "4c4c6c92-1768-4b40-8462-b1dac8b22c29",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-10T20:14:27.221Z",
+        "updated_at": "2023-08-10T23:11:14.233Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae5a1583-efe0-4355-b5b5-463bb98ae652",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T20:29:54.520Z",
+        "updated_at": "2023-08-11T06:50:23.549Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3655d01-7272-42b8-8b86-5ee4b9f673ac",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-11T05:14:55.717Z",
+        "updated_at": "2023-08-11T00:01:19.636Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "706a7a2b-ee98-46c3-844a-bccd9d22a5aa",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-10T12:47:17.760Z",
+        "updated_at": "2023-08-10T13:34:09.580Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc9b83c4-aa59-4171-bd8a-67eaff367f1c",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T13:49:46.071Z",
+        "updated_at": "2023-08-11T06:52:22.089Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "fe6677f6-06c3-43ee-ac1c-1d68f69a6c25",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-11T03:57:01.073Z",
+        "updated_at": "2023-08-11T08:11:26.226Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df898494-ef89-41f9-892d-e3d16a8420a7",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-11T05:13:47.392Z",
+        "updated_at": "2023-08-11T00:46:41.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4fd7539-e670-4010-987c-68de43e0f14f",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T18:50:49.191Z",
+        "updated_at": "2023-08-10T17:48:24.986Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19a6c0f4-6561-47fc-adb5-cad355be7ccf",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-11T02:28:52.017Z",
+        "updated_at": "2023-08-10T13:22:55.062Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3bad25c8-4239-44b2-b985-eb2a0d695650",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-11T05:49:58.802Z",
+        "updated_at": "2023-08-10T18:35:12.362Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "3b69701f-d14b-4ca4-b044-607639c4730b",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-10T22:16:12.426Z",
+        "updated_at": "2023-08-11T08:04:13.262Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d450aeec-3d1e-4614-a25d-975df320a879",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-11T01:04:11.711Z",
+        "updated_at": "2023-08-10T18:20:41.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44505ebd-fd3b-43e4-8b78-a75b8758ed3e",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-10T13:55:58.250Z",
+        "updated_at": "2023-08-10T12:57:11.590Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76b6d082-6c05-4d5f-9fa0-3ed9997233fd",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-11T00:05:45.408Z",
+        "updated_at": "2023-08-10T17:19:37.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8f43ce8-1043-484a-a8b8-ec20accc36ef",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports on important issues",
+        "created_at": "2023-08-10T19:44:30.808Z",
+        "updated_at": "2023-08-10T16:34:11.773Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "4fa5376e-93af-4b49-ad52-d53f9c40c2eb",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends and innovations in technology",
+        "created_at": "2023-08-10T15:28:57.215Z",
+        "updated_at": "2023-08-11T06:35:55.199Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38d1b6ac-7459-49b8-888d-54048cce19f6",
+        "title": "Health and Wellness Forum",
+        "description": "Share tips and advice for maintaining a healthy lifestyle",
+        "created_at": "2023-08-10T17:32:04.518Z",
+        "updated_at": "2023-08-10T22:51:57.737Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4549550-2bbe-4fea-b04d-e30a5977ce4b",
+        "title": "Business Forum",
+        "description": "Connect with fellow entrepreneurs and discuss business strategies",
+        "created_at": "2023-08-10T17:07:37.396Z",
+        "updated_at": "2023-08-10T11:58:40.855Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f50372c8-d26c-49e6-9644-caa910cf1558",
+        "title": "Travel Forum",
+        "description": "Exchange travel tips and recommendations with fellow travelers",
+        "created_at": "2023-08-10T11:54:03.123Z",
+        "updated_at": "2023-08-11T10:38:41.496Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e20ce2c-d528-4865-a1d2-34af6fdba7b6",
+        "title": "Food Forum",
+        "description": "Share recipes and discuss food-related topics",
+        "created_at": "2023-08-11T08:28:32.033Z",
+        "updated_at": "2023-08-10T19:26:14.665Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "bcc54e0d-e1b6-4bce-a16b-e7f903234ff0",
+        "title": "Music Festival",
+        "description": "Experience the best live music at our annual music festival",
+        "date": "2023-08-11T03:47:54.957Z",
+        "created_at": "2023-08-10T23:48:07.451Z",
+        "updated_at": "2023-08-10T13:34:14.863Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed1b9b11-4228-4446-abe2-9ae3e1c10a5d",
+        "title": "Charity Gala",
+        "description": "Join us for an elegant evening of fundraising at our charity gala",
+        "date": "2023-08-10T12:57:48.159Z",
+        "created_at": "2023-08-10T13:30:08.341Z",
+        "updated_at": "2023-08-10T14:35:30.828Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4338d89e-65f9-448c-a8e0-437a96aec0cd",
+        "title": "Tech Conference",
+        "description": "Explore the latest advancements in technology at our tech conference",
+        "date": "2023-08-10T23:40:39.682Z",
+        "created_at": "2023-08-11T03:02:24.390Z",
+        "updated_at": "2023-08-10T22:25:23.141Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39041dd7-c11e-4027-bd84-4eb942f0a5e3",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our art exhibition",
+        "date": "2023-08-11T02:56:27.199Z",
+        "created_at": "2023-08-10T15:05:42.165Z",
+        "updated_at": "2023-08-11T06:42:46.247Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "488dfca2-3317-4f1b-b43b-ec6178345c01",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our sports tournament",
+        "date": "2023-08-10T20:38:18.454Z",
+        "created_at": "2023-08-11T08:46:55.138Z",
+        "updated_at": "2023-08-10T23:43:36.414Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "878439ed-d224-4b0f-aaf1-6bb7194a76c4",
+        "name": "Alex",
+        "description": "Meet Alex, your personal assistant for all your needs",
+        "created_at": "2023-08-11T01:09:30.585Z",
+        "updated_at": "2023-08-10T18:04:38.807Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad9f2eb3-7a91-4dc2-9c5c-c4729150ead6",
+        "name": "Sara",
+        "description": "Sara is here to help you with any questions or concerns",
+        "created_at": "2023-08-10T23:44:12.830Z",
+        "updated_at": "2023-08-11T02:31:35.543Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b36dd52-220e-443e-9940-b094bdb3cda0",
+        "name": "Max",
+        "description": "Max is a friendly chat bot ready to assist you",
+        "created_at": "2023-08-11T04:01:30.886Z",
+        "updated_at": "2023-08-10T18:05:04.795Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1ac8e68-b4cb-4627-9d06-ad99403d850e",
+        "name": "Luna",
+        "description": "Luna is an intelligent chat bot designed to provide support",
+        "created_at": "2023-08-10T18:50:41.211Z",
+        "updated_at": "2023-08-11T01:35:35.444Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8081951f-bde8-4b0b-9d07-3f3ff6eeb4af",
+        "name": "Charlie",
+        "description": "Charlie is a virtual assistant available 24/7",
+        "created_at": "2023-08-11T04:37:12.648Z",
+        "updated_at": "2023-08-10T12:06:42.590Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "aaaaa5b5-e8dc-4ba1-88ef-0fb9eaa7d6f9",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips and recommendations",
+        "created_at": "2023-08-11T01:01:09.671Z",
+        "updated_at": "2023-08-10T21:21:21.831Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "027e10d0-cd3c-4eae-bcd2-fc7058024312",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and nutritious recipes for a healthy lifestyle",
+        "created_at": "2023-08-10T22:26:51.378Z",
+        "updated_at": "2023-08-10T15:42:01.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e4b4841-d247-4dcb-b200-43ecb87d87a0",
+        "title": "Financial Advice",
+        "content": "Get expert financial advice to help you manage your money",
+        "created_at": "2023-08-10T15:59:22.743Z",
+        "updated_at": "2023-08-11T03:38:50.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19d3aaf9-7dc1-41c2-b837-ab10e92c7826",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for decorating your home with our home decor ideas",
+        "created_at": "2023-08-10T17:00:17.357Z",
+        "updated_at": "2023-08-11T05:44:50.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c349ef82-4fc1-40b7-9baf-7551e4ba337c",
+        "title": "Product Reviews",
+        "content": "Read honest and detailed product reviews before making a purchase",
+        "created_at": "2023-08-10T20:27:12.184Z",
+        "updated_at": "2023-08-11T09:09:45.126Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "609b400e-5b46-4deb-af1d-f169179c48ea",
+        "email": "Grayson_Corkery@hotmail.com",
+        "firstName": "Tabitha",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/963.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b82d8b7f-5bd6-4dd9-8269-d1006e3e3f25",
+        "email": "Gudrun8@yahoo.com",
+        "firstName": "Jailyn",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8943859",
+        "tenantId": null
+      },
+      {
+        "reference": "817136c4-19f7-48f4-bd27-0037e664ecea",
+        "email": "Adelbert_Stroman@gmail.com",
+        "firstName": "Rahsaan",
+        "lastName": "Langworth",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/879.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "952b4b07-5952-4274-a893-0e7d6217ea8f",
+        "email": "Cole_Lubowitz93@hotmail.com",
+        "firstName": "Roberta",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73371640",
+        "tenantId": null
+      },
+      {
+        "reference": "cac5e06a-60b8-42d0-8d43-142b24c3c97a",
+        "email": "Aurore.Tillman@yahoo.com",
+        "firstName": "Filiberto",
+        "lastName": "Trantow",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34426872",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "802bf166-32a2-44ae-aaac-ee592e99087c",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-10T16:39:30.774Z",
+        "updated_at": "2023-08-11T03:33:04.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b7913e8-4e0b-470b-95f2-63f7c1d3c341",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T22:39:18.905Z",
+        "updated_at": "2023-08-11T07:54:50.147Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adad7837-9f78-4535-acde-ad161384c35d",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-10T19:56:07.411Z",
+        "updated_at": "2023-08-10T22:26:06.163Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "958ab41b-4745-4655-a0d4-28728275f233",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-10T23:41:00.024Z",
+        "updated_at": "2023-08-10T13:14:43.071Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a43a999-42ef-42d5-98f9-e0c5ca059b1c",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T16:14:44.469Z",
+        "updated_at": "2023-08-10T11:29:56.603Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "ee77abf2-c3b9-431a-b24d-c02db114c3da",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-10T12:07:36.755Z",
+        "updated_at": "2023-08-10T20:43:48.840Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9dd1517f-9237-4cdb-a5e9-2c1b04fe10dd",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-10T15:50:55.124Z",
+        "updated_at": "2023-08-10T12:38:28.395Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bc49ad4-3b9b-4349-adb5-dc4b6bebbc7b",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T21:11:56.436Z",
+        "updated_at": "2023-08-10T17:32:44.316Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "802f2be4-e8f9-43a5-bbcc-ab74ffc227a2",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-11T02:22:52.719Z",
+        "updated_at": "2023-08-11T02:26:06.774Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62d09ef3-86c2-4c6d-b823-1725d557a8fe",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-11T04:55:48.802Z",
+        "updated_at": "2023-08-10T16:02:24.849Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "108196ce-946b-4de0-baa2-7e51cfa6e778",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-10T13:12:44.119Z",
+        "updated_at": "2023-08-11T08:43:43.024Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3578a54a-816f-4835-9b5f-2c29bb8702d5",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-10T23:03:04.185Z",
+        "updated_at": "2023-08-11T08:06:19.609Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2ad5f71-3dbd-47c6-9742-7ae72343d546",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-11T01:55:43.949Z",
+        "updated_at": "2023-08-11T01:43:46.300Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3cf4c251-13ac-4048-a640-ab7f0350ce66",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-11T04:14:57.459Z",
+        "updated_at": "2023-08-10T18:00:32.353Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a86b0303-f76b-4e28-bfa9-25a48ed786ac",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports from our journalists",
+        "created_at": "2023-08-11T07:52:49.328Z",
+        "updated_at": "2023-08-11T08:29:46.570Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "09c435f2-3e15-4d79-a4af-310d83b94569",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-10T14:19:16.612Z",
+        "updated_at": "2023-08-10T20:56:42.877Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e228130a-2e0c-4ef0-a1a2-2fff722bba39",
+        "title": "Sports Forum",
+        "description": "Engage in conversations about your favorite sports",
+        "created_at": "2023-08-11T03:22:41.513Z",
+        "updated_at": "2023-08-11T02:22:21.024Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ab904e3-58af-4020-9fb7-e9b86a8b5ecb",
+        "title": "Music Forum",
+        "description": "Share your love for music with fellow enthusiasts",
+        "created_at": "2023-08-11T11:07:16.608Z",
+        "updated_at": "2023-08-10T18:18:07.364Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "764ec797-1d71-4030-aca1-2d0da0672cb7",
+        "title": "Art Forum",
+        "description": "Connect with artists and discuss various art forms",
+        "created_at": "2023-08-11T08:54:08.595Z",
+        "updated_at": "2023-08-10T15:11:21.483Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa0c5303-6c77-4d88-b86f-aef96f5b1535",
+        "title": "Science Forum",
+        "description": "Explore the wonders of science and engage in scientific discussions",
+        "created_at": "2023-08-10T23:24:08.151Z",
+        "updated_at": "2023-08-10T17:55:20.486Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "c28d6247-8d4c-46a2-91e1-19bbb180e933",
+        "title": "Music Festival",
+        "description": "Experience the best music performances at our annual music festival",
+        "date": "2023-08-10T16:58:25.435Z",
+        "created_at": "2023-08-10T20:28:52.655Z",
+        "updated_at": "2023-08-10T14:52:07.617Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2773f1fc-2547-460e-8318-d004504fb470",
+        "title": "Charity Gala",
+        "description": "Join us for a glamorous charity gala supporting a great cause",
+        "date": "2023-08-11T05:07:55.236Z",
+        "created_at": "2023-08-10T15:28:01.058Z",
+        "updated_at": "2023-08-11T06:19:43.354Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e2b6017-b2c2-4723-a4f3-eb61b609c295",
+        "title": "Tech Conference",
+        "description": "Attend the leading tech conference and stay ahead of the curve",
+        "date": "2023-08-11T09:47:53.842Z",
+        "created_at": "2023-08-11T03:26:01.716Z",
+        "updated_at": "2023-08-11T03:46:24.626Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14ef81d1-ad52-43fe-8c6f-46e7d9c6754f",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our captivating exhibition",
+        "date": "2023-08-11T00:11:19.264Z",
+        "created_at": "2023-08-10T18:13:13.852Z",
+        "updated_at": "2023-08-11T07:45:33.761Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b769f63-4468-4017-a581-e6a8e31c1839",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our exciting tournament",
+        "date": "2023-08-10T14:48:37.932Z",
+        "created_at": "2023-08-11T10:05:25.829Z",
+        "updated_at": "2023-08-11T01:58:37.269Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "fbf85eb5-1d88-45f3-b4d2-e5ec300172ec",
+        "name": "Alex",
+        "description": "Meet Alex, your friendly chat bot ready to assist you",
+        "created_at": "2023-08-10T17:35:54.394Z",
+        "updated_at": "2023-08-11T07:44:31.519Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72de92b8-9591-460c-bafb-4bca200fd965",
+        "name": "Sophia",
+        "description": "Sophia is here to answer all your questions and provide support",
+        "created_at": "2023-08-10T11:40:34.466Z",
+        "updated_at": "2023-08-10T13:10:03.326Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7cc144fc-5108-4985-8dab-05d99e6394b2",
+        "name": "Max",
+        "description": "Max is a knowledgeable chat bot with a wealth of information",
+        "created_at": "2023-08-11T06:17:36.641Z",
+        "updated_at": "2023-08-11T04:16:20.259Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d00fd4ca-f14c-421f-9d18-796619adf218",
+        "name": "Luna",
+        "description": "Luna is a helpful chat bot designed to make your life easier",
+        "created_at": "2023-08-11T07:15:19.168Z",
+        "updated_at": "2023-08-10T23:10:21.872Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4b2d88d-8bb5-4264-91fe-d137ebc74182",
+        "name": "Oliver",
+        "description": "Oliver is a reliable chat bot that can assist you with various tasks",
+        "created_at": "2023-08-11T03:01:11.310Z",
+        "updated_at": "2023-08-11T10:01:30.239Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "c68af886-66db-43e9-bac8-5122fb79225e",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips for your next adventure",
+        "created_at": "2023-08-10T12:46:23.781Z",
+        "updated_at": "2023-08-10T18:22:54.976Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "548d88ef-acc0-4fae-a5e8-8cb3a0fdf8e2",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and healthy recipes for a balanced lifestyle",
+        "created_at": "2023-08-11T02:19:42.426Z",
+        "updated_at": "2023-08-11T04:09:56.767Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b29b8c4e-9c48-486b-ab2c-5aa3fb01c0f3",
+        "title": "Career Advice",
+        "content": "Get valuable career advice to advance in your professional journey",
+        "created_at": "2023-08-10T22:18:57.135Z",
+        "updated_at": "2023-08-10T15:56:54.314Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "358cc557-6ae1-4b28-ab6f-aef13bfd327e",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for your home decor with our creative ideas",
+        "created_at": "2023-08-10T12:47:57.909Z",
+        "updated_at": "2023-08-11T10:20:43.709Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35e5f35b-a4e2-49da-b4d7-d1c387cefb15",
+        "title": "Book Recommendations",
+        "content": "Get lost in captivating stories with our book recommendations",
+        "created_at": "2023-08-11T09:40:11.084Z",
+        "updated_at": "2023-08-11T02:57:58.100Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6fa7a57d-8d58-4607-9214-d842f8545966",
+        "email": "Regan56@gmail.com",
+        "firstName": "Kyla",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65571074",
+        "tenantId": null
+      },
+      {
+        "reference": "62d6b48f-45dc-46cd-b3b6-7b6d8a0e13a7",
+        "email": "Jordyn50@gmail.com",
+        "firstName": "Darius",
+        "lastName": "Schoen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42742698",
+        "tenantId": null
+      },
+      {
+        "reference": "d50f56b0-7901-4797-8e6b-6e5bad5dd33d",
+        "email": "Hazel_Bernhard@yahoo.com",
+        "firstName": "Pamela",
+        "lastName": "Ward",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83708793",
+        "tenantId": null
+      },
+      {
+        "reference": "b6bb0886-e8de-4e9c-96a5-306d97b72bb9",
+        "email": "Bria.Greenholt5@yahoo.com",
+        "firstName": "Angelina",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35267295",
+        "tenantId": null
+      },
+      {
+        "reference": "ae06ae64-88cf-4a92-ba9a-c2b9acac2fe0",
+        "email": "Ivory91@yahoo.com",
+        "firstName": "Emilie",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9825081",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "0ee0a64d-89f6-4e60-9409-d8bae8fba2ee",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-10T12:14:48.249Z",
+        "updated_at": "2023-08-10T13:03:23.658Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "076b8fc7-de34-46b0-a16a-b633c571f337",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T13:03:35.274Z",
+        "updated_at": "2023-08-11T02:35:04.445Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efbb3ef0-e186-464c-93a0-212a33c4cdfd",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-11T09:14:52.359Z",
+        "updated_at": "2023-08-10T13:26:31.729Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02ae5c3a-6903-4efc-941f-e700cfbe8950",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T18:24:31.248Z",
+        "updated_at": "2023-08-11T04:58:02.347Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42e6e199-67a2-4a75-acdf-0cee22e230e4",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-11T10:59:09.345Z",
+        "updated_at": "2023-08-11T08:35:08.764Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "d433ed33-dcbb-44de-bb79-334e71b456fb",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-11T09:01:24.492Z",
+        "updated_at": "2023-08-10T21:55:03.472Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4992ad70-a8e0-411c-bcb0-126ff74bbd71",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-11T00:26:44.631Z",
+        "updated_at": "2023-08-10T20:18:10.117Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91b60786-63e7-46ba-b7b1-b80d9c67c582",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T14:15:35.843Z",
+        "updated_at": "2023-08-10T19:39:29.619Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a26d025b-b012-4113-a235-15204cfddf13",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer",
+        "created_at": "2023-08-10T18:13:55.256Z",
+        "updated_at": "2023-08-11T02:46:07.471Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b78be8f-06f8-49fc-8c89-f52105d837d1",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-10T23:05:25.247Z",
+        "updated_at": "2023-08-10T17:37:21.173Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "f3d1568b-295e-41a7-a138-6663dd98afc8",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-11T10:23:24.404Z",
+        "updated_at": "2023-08-10T13:31:02.803Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec285b0e-27bb-45e5-9f1d-b61a1b1d419b",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-10T17:16:55.273Z",
+        "updated_at": "2023-08-10T23:16:21.413Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34fbe9b0-79dc-4af5-a861-8a42093b4064",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-11T08:58:36.698Z",
+        "updated_at": "2023-08-10T20:04:39.299Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "559535bd-0623-4764-8e01-531f603d49a4",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-10T16:15:59.427Z",
+        "updated_at": "2023-08-10T17:52:54.939Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a826136-d5bb-44e0-8a58-2275bff09ad6",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports on important issues",
+        "created_at": "2023-08-10T11:59:45.632Z",
+        "updated_at": "2023-08-11T08:43:54.833Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "31a0b735-decf-4b42-9f02-57c3fa57481f",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-11T00:57:30.371Z",
+        "updated_at": "2023-08-11T02:41:52.794Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "281b4cda-8798-4769-9d25-a895ecd5aa09",
+        "title": "Health and Wellness Forum",
+        "description": "Share tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-10T15:01:15.729Z",
+        "updated_at": "2023-08-10T14:05:37.077Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3055125-9870-48d6-a1e0-96aa68156e75",
+        "title": "Business Forum",
+        "description": "Connect with fellow entrepreneurs and discuss business strategies",
+        "created_at": "2023-08-11T08:21:19.464Z",
+        "updated_at": "2023-08-10T17:53:22.686Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c683d375-8e41-41fd-9feb-c825219d7770",
+        "title": "Travel Forum",
+        "description": "Exchange travel experiences and recommendations",
+        "created_at": "2023-08-11T05:04:17.268Z",
+        "updated_at": "2023-08-11T02:35:20.281Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e60b7044-58de-467c-97e0-71101a19db69",
+        "title": "Parenting Forum",
+        "description": "Join a community of parents and share parenting advice",
+        "created_at": "2023-08-11T06:56:40.227Z",
+        "updated_at": "2023-08-10T20:12:29.772Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "864f3faa-7b8e-4c4c-b6c2-65489f374daf",
+        "title": "Music Festival",
+        "description": "Experience the best live music at our annual music festival",
+        "date": "2023-08-11T03:40:28.685Z",
+        "created_at": "2023-08-11T04:37:31.957Z",
+        "updated_at": "2023-08-10T13:38:17.945Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "771ea4ee-08b0-482b-87f6-d892dcf64bf6",
+        "title": "Charity Gala",
+        "description": "Support a good cause at our charity gala event",
+        "date": "2023-08-10T22:01:12.541Z",
+        "created_at": "2023-08-11T05:52:18.028Z",
+        "updated_at": "2023-08-10T18:24:35.268Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "872c7276-8f19-4267-bdd4-5ebaf820ee74",
+        "title": "Tech Conference",
+        "description": "Explore the latest advancements in technology at our tech conference",
+        "date": "2023-08-10T15:46:26.562Z",
+        "created_at": "2023-08-11T11:17:43.015Z",
+        "updated_at": "2023-08-10T12:11:34.193Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd6103c6-d608-4b1e-bded-8027b56eb995",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our art exhibition",
+        "date": "2023-08-10T19:01:11.263Z",
+        "created_at": "2023-08-11T08:06:31.738Z",
+        "updated_at": "2023-08-11T05:17:37.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bc30f16-ee71-402d-a7f9-6852812e72ab",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our sports tournament",
+        "date": "2023-08-11T07:02:18.150Z",
+        "created_at": "2023-08-10T22:04:27.808Z",
+        "updated_at": "2023-08-10T21:37:05.050Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "6f24cafe-db37-4ffa-a1dc-6c8eff8e2403",
+        "name": "Virtual Assistant",
+        "description": "Get assistance from our virtual assistant",
+        "created_at": "2023-08-11T09:50:50.501Z",
+        "updated_at": "2023-08-10T19:29:04.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8f03b98-6975-454c-bc62-e484cbb5440b",
+        "name": "AI Chatbot",
+        "description": "Interact with our AI chatbot for quick answers",
+        "created_at": "2023-08-11T04:58:03.462Z",
+        "updated_at": "2023-08-10T23:42:16.240Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f228af17-8127-4016-bee2-9407dcdfc385",
+        "name": "Smart Bot",
+        "description": "Experience the convenience of our smart bot",
+        "created_at": "2023-08-11T10:59:56.686Z",
+        "updated_at": "2023-08-11T05:13:12.651Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "537a461e-c445-4f0d-add7-95a6f12a38da",
+        "name": "Digital Helper",
+        "description": "Let our digital helper assist you with your queries",
+        "created_at": "2023-08-11T00:44:41.988Z",
+        "updated_at": "2023-08-11T07:21:13.748Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "801b2df1-4adc-49f0-a142-ba8cbef77e02",
+        "name": "Automated Support",
+        "description": "Receive automated support from our chatbot",
+        "created_at": "2023-08-10T13:35:22.948Z",
+        "updated_at": "2023-08-10T11:25:15.024Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "dfcf24eb-f3eb-4547-9659-cef2956c13d3",
+        "title": "Travel Blog",
+        "content": "Discover the best travel destinations and tips",
+        "created_at": "2023-08-10T12:23:13.099Z",
+        "updated_at": "2023-08-11T08:39:11.061Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce4c3e68-d41e-4e19-84c1-a0679b0aa209",
+        "title": "Food Blog",
+        "content": "Explore delicious recipes and food recommendations",
+        "created_at": "2023-08-11T07:49:54.397Z",
+        "updated_at": "2023-08-11T10:30:31.357Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2b25f4a-59d0-46e4-bdc8-c49905d6e0e1",
+        "title": "Fashion Blog",
+        "content": "Stay up-to-date with the latest fashion trends",
+        "created_at": "2023-08-10T19:24:47.652Z",
+        "updated_at": "2023-08-11T00:06:38.012Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23db047c-0ca2-4049-b375-7e5d17f55971",
+        "title": "Lifestyle Blog",
+        "content": "Get inspiration for a balanced and fulfilling lifestyle",
+        "created_at": "2023-08-10T16:49:48.223Z",
+        "updated_at": "2023-08-10T13:22:19.983Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b7b6cf6-18c4-439c-86df-a022d031af34",
+        "title": "Fitness Blog",
+        "content": "Find workout routines and fitness advice for a healthier you",
+        "created_at": "2023-08-10T21:57:45.149Z",
+        "updated_at": "2023-08-10T18:14:12.800Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5f802a9a-b86d-407d-95f1-313fa9f56d64",
+        "email": "Felipe34@hotmail.com",
+        "firstName": "Yasmine",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49046908",
+        "tenantId": null
+      },
+      {
+        "reference": "b5885b30-5222-4920-a4b4-c7320690d51b",
+        "email": "Dwight_Flatley@gmail.com",
+        "firstName": "Natasha",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/958.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d7dd7fe2-11c1-41e4-8920-f484714f8eab",
+        "email": "Frederic98@yahoo.com",
+        "firstName": "Demarcus",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41264161",
+        "tenantId": null
+      },
+      {
+        "reference": "4f5c034b-c45b-48d5-9a6a-34b6f6ac51f4",
+        "email": "Stephanie.Nolan@hotmail.com",
+        "firstName": "Silas",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49214194",
+        "tenantId": null
+      },
+      {
+        "reference": "8140cf1d-7288-431d-be2a-1cee115a782f",
+        "email": "Earline.Waelchi62@hotmail.com",
+        "firstName": "Shawna",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3065404",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "222f6c22-7987-41cd-8a96-52d4a31ac3df",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-11T03:40:11.535Z",
+        "updated_at": "2023-08-10T13:53:32.593Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abd86636-4781-4aab-8430-10e2a82b224b",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-11T00:24:31.872Z",
+        "updated_at": "2023-08-11T06:06:22.587Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1161a8e4-c575-46dc-8543-5f58a0b1202d",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-10T13:19:18.655Z",
+        "updated_at": "2023-08-11T00:12:50.007Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01a99cfb-9c0d-47a3-9299-ab75dccb6245",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-10T23:53:30.444Z",
+        "updated_at": "2023-08-10T22:18:26.376Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f509c085-f165-4a08-b4e4-9d661d6c6236",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T11:54:19.695Z",
+        "updated_at": "2023-08-11T06:34:20.115Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "a6297aec-2dc2-4773-9d76-46ed82dda066",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-11T03:51:23.229Z",
+        "updated_at": "2023-08-10T23:44:11.314Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d7d154c-6111-44d6-8828-f5356680b0c4",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-11T08:20:37.272Z",
+        "updated_at": "2023-08-11T06:39:03.157Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3604c5f8-1f09-49d0-b08e-57b837ef3299",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-11T00:32:57.265Z",
+        "updated_at": "2023-08-10T19:29:10.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6facec5e-212b-4e25-ba17-4850416577cc",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-11T03:24:40.622Z",
+        "updated_at": "2023-08-10T21:52:21.340Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8de3a1f-b01f-4238-97f8-5b015ad1adad",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-10T11:52:12.533Z",
+        "updated_at": "2023-08-11T07:03:52.878Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "23b21a90-952d-4ac4-b980-d524f7957dd0",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-11T04:38:03.067Z",
+        "updated_at": "2023-08-10T18:17:13.418Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "276b04f0-fa3b-48c2-8b40-c9cafd93d383",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-11T06:47:32.597Z",
+        "updated_at": "2023-08-11T08:40:03.710Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "515328a8-2a2b-45e2-b16d-059a906f216e",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-11T08:00:20.596Z",
+        "updated_at": "2023-08-10T22:19:14.059Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b879624d-ae54-4715-9bfb-fa4b474ad7bb",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-11T04:43:57.907Z",
+        "updated_at": "2023-08-10T19:06:47.614Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af74569a-d661-4c70-b798-9b1bc15f5317",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports from our journalists",
+        "created_at": "2023-08-11T04:43:42.778Z",
+        "updated_at": "2023-08-11T00:48:15.045Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "95816786-475c-4e91-ad78-37d916b397ce",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-10T23:15:46.651Z",
+        "updated_at": "2023-08-10T22:05:46.987Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d64eeb30-9b83-43f0-86ea-20534899b1f3",
+        "title": "Sports Forum",
+        "description": "Engage in conversations about your favorite sports",
+        "created_at": "2023-08-11T03:40:41.679Z",
+        "updated_at": "2023-08-11T02:15:52.100Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d348ed12-4464-4d05-b8d0-0424d446a7f5",
+        "title": "Music Forum",
+        "description": "Share your love for music with fellow enthusiasts",
+        "created_at": "2023-08-11T06:10:40.219Z",
+        "updated_at": "2023-08-11T09:42:16.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feff386f-b7c1-46a6-b395-b54f1ab2a465",
+        "title": "Art Forum",
+        "description": "Connect with artists and discuss various art forms",
+        "created_at": "2023-08-11T10:55:42.451Z",
+        "updated_at": "2023-08-11T08:51:08.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff0f42c2-e023-4efc-8e68-24704bd1ed36",
+        "title": "Science Forum",
+        "description": "Explore the wonders of science and engage in scientific discussions",
+        "created_at": "2023-08-10T23:42:56.611Z",
+        "updated_at": "2023-08-10T22:46:12.352Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "96242109-d2fa-454c-9ea4-460d86a94c3c",
+        "title": "Music Festival",
+        "description": "Experience the best music performances at our annual music festival",
+        "date": "2023-08-11T11:00:38.431Z",
+        "created_at": "2023-08-10T14:46:13.105Z",
+        "updated_at": "2023-08-11T01:29:40.495Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbdacf55-53a5-4ee6-970b-bd9f5678e4ac",
+        "title": "Charity Gala",
+        "description": "Join us for a glamorous charity gala supporting a great cause",
+        "date": "2023-08-10T22:03:16.759Z",
+        "created_at": "2023-08-10T19:01:43.717Z",
+        "updated_at": "2023-08-11T05:14:14.800Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81c299f7-40bb-4909-bceb-a1bb60ba181a",
+        "title": "Tech Conference",
+        "description": "Attend the leading tech conference and stay ahead of the curve",
+        "date": "2023-08-11T04:33:13.492Z",
+        "created_at": "2023-08-10T23:35:08.583Z",
+        "updated_at": "2023-08-10T23:19:06.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e52a3d6d-5f07-44f4-9dff-18cc2a32fd4c",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our captivating exhibition",
+        "date": "2023-08-10T18:06:08.677Z",
+        "created_at": "2023-08-11T04:05:00.511Z",
+        "updated_at": "2023-08-10T18:31:43.134Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a971a91a-0079-4715-9016-adc050019295",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our exciting tournament",
+        "date": "2023-08-11T01:51:39.332Z",
+        "created_at": "2023-08-11T08:33:21.863Z",
+        "updated_at": "2023-08-10T21:02:21.942Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "b87d806c-206d-43ce-9969-bf45717fd470",
+        "name": "Alex",
+        "description": "Meet Alex, your friendly chat bot ready to assist you",
+        "created_at": "2023-08-11T09:39:44.956Z",
+        "updated_at": "2023-08-10T21:13:31.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24099bef-0192-457e-8a14-2c1a95c2cd83",
+        "name": "Sophia",
+        "description": "Sophia is here to answer all your questions and provide support",
+        "created_at": "2023-08-11T08:00:29.163Z",
+        "updated_at": "2023-08-10T15:08:22.200Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0250b5f-fd8f-41fa-be09-2814727328ed",
+        "name": "Max",
+        "description": "Max is a knowledgeable chat bot with a wealth of information",
+        "created_at": "2023-08-11T02:17:30.162Z",
+        "updated_at": "2023-08-10T17:06:12.699Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87c071b9-0379-45a7-a3e4-cf37f3091116",
+        "name": "Luna",
+        "description": "Luna is a helpful chat bot designed to make your life easier",
+        "created_at": "2023-08-10T13:05:16.718Z",
+        "updated_at": "2023-08-10T21:13:57.037Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15c02e9b-32cf-4214-805d-48b6a5784468",
+        "name": "Oliver",
+        "description": "Oliver is a reliable chat bot that can assist you with various tasks",
+        "created_at": "2023-08-11T06:56:32.599Z",
+        "updated_at": "2023-08-10T17:20:49.444Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "f752c4a6-c3cc-4a4f-b81a-10b81a3d1ba5",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips for your next adventure",
+        "created_at": "2023-08-11T03:53:34.998Z",
+        "updated_at": "2023-08-11T10:11:57.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d1b7d2d1-63c2-4a2b-b2f7-6c0b7d0c2a9c",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and healthy recipes for a balanced lifestyle",
+        "created_at": "2023-08-11T05:48:37.088Z",
+        "updated_at": "2023-08-10T20:14:53.997Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6d7221d-4f06-4fe2-baf0-762318bfcfcb",
+        "title": "Career Advice",
+        "content": "Get valuable career advice to advance in your professional journey",
+        "created_at": "2023-08-11T07:02:54.854Z",
+        "updated_at": "2023-08-10T19:21:00.523Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09d15620-df4a-40dc-859f-8ffd70532e37",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for your home decor with our creative ideas",
+        "created_at": "2023-08-10T15:07:12.940Z",
+        "updated_at": "2023-08-10T19:52:38.971Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd1a63f2-e093-4b93-ab05-6f5ac920699a",
+        "title": "Book Recommendations",
+        "content": "Get lost in captivating stories with our book recommendations",
+        "created_at": "2023-08-11T08:55:48.794Z",
+        "updated_at": "2023-08-11T05:01:11.413Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "01f4ceb9-3ec6-49f8-82bb-a125daabdbdb",
+        "email": "Neha_Mante@hotmail.com",
+        "firstName": "Asha",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/404.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "df067a56-a925-4a80-aafc-6c478901da7a",
+        "email": "Sydni15@yahoo.com",
+        "firstName": "Judd",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16947960",
+        "tenantId": null
+      },
+      {
+        "reference": "d476d3f4-0aa8-4457-bd25-d4ab293b0cf4",
+        "email": "Marge.Pacocha@gmail.com",
+        "firstName": "Jimmy",
+        "lastName": "Bauch-Davis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12025978",
+        "tenantId": null
+      },
+      {
+        "reference": "3c3fcce2-80d0-44e6-8f45-876f67159303",
+        "email": "Miller_Davis27@yahoo.com",
+        "firstName": "Theron",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8785332",
+        "tenantId": null
+      },
+      {
+        "reference": "cae29c13-e92f-4084-a14d-5564fae13bc1",
+        "email": "Paula.Stanton@hotmail.com",
+        "firstName": "Vern",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1047.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "e138b114-9b2a-470f-a452-bd6c955463ba",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-10T17:20:04.774Z",
+        "updated_at": "2023-08-11T08:55:34.125Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68d66c35-c012-408f-833c-cd083c625e16",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T12:24:02.688Z",
+        "updated_at": "2023-08-10T14:25:25.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b292997b-9551-4d9a-af9d-f714cc8c47a2",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-11T07:26:58.508Z",
+        "updated_at": "2023-08-11T00:14:37.185Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac8c0481-57a3-4730-a0a4-a8cfdc9136be",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-11T02:57:46.555Z",
+        "updated_at": "2023-08-11T09:49:24.003Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fac685a5-236b-4ae3-b0aa-07c7df12c0ac",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-10T19:11:30.907Z",
+        "updated_at": "2023-08-10T11:29:52.157Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "8d265e4a-26fe-4c89-8fca-17c434e8f7d3",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-11T09:39:32.202Z",
+        "updated_at": "2023-08-11T09:41:08.906Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f10fe124-6929-4bdc-83b4-b629a8335d41",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-11T05:09:52.734Z",
+        "updated_at": "2023-08-10T19:35:39.170Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa9741f7-3aae-4e50-9f1a-b2da0b614e5a",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T15:13:21.530Z",
+        "updated_at": "2023-08-10T20:12:01.585Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f832f9d-2ebd-481f-9f6c-413f1ee43a38",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-10T18:09:48.805Z",
+        "updated_at": "2023-08-11T10:02:42.184Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23013e22-90b7-4655-a51e-7c517dec92cd",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-10T19:36:46.558Z",
+        "updated_at": "2023-08-11T09:39:37.356Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "fc9ee1a8-3343-43e1-bcf7-1f6c3f696929",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-11T07:44:20.493Z",
+        "updated_at": "2023-08-10T15:24:38.920Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e9006dc-e0e7-41a3-96e3-6351b6a40c0f",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-11T05:04:11.337Z",
+        "updated_at": "2023-08-11T01:53:36.225Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55456f24-aac2-42c9-a464-b78f0f15c2b9",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-11T03:13:11.495Z",
+        "updated_at": "2023-08-11T00:39:36.499Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "434be1cc-0e59-4dce-85ec-dcdc714844fd",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-10T18:37:02.240Z",
+        "updated_at": "2023-08-10T22:41:04.022Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55ade8db-d9eb-4d7f-b867-5b2cf100a160",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports from our journalists",
+        "created_at": "2023-08-10T20:53:25.548Z",
+        "updated_at": "2023-08-10T14:06:57.204Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "f20e1797-0e67-4339-adbb-50c4011e8beb",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-11T01:33:12.659Z",
+        "updated_at": "2023-08-11T11:15:05.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5e23356-9163-4882-a319-01912a0108df",
+        "title": "Sports Forum",
+        "description": "Engage in conversations about your favorite sports",
+        "created_at": "2023-08-11T02:59:22.842Z",
+        "updated_at": "2023-08-10T21:30:06.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b6b7392-fe68-4544-be0b-aebafeff3181",
+        "title": "Music Forum",
+        "description": "Share your love for music with fellow enthusiasts",
+        "created_at": "2023-08-10T16:53:45.570Z",
+        "updated_at": "2023-08-10T11:38:43.695Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34afdf5d-2837-4581-9aaa-ff3cb6911e07",
+        "title": "Art Forum",
+        "description": "Connect with artists and discuss various art forms",
+        "created_at": "2023-08-11T05:21:23.271Z",
+        "updated_at": "2023-08-11T02:01:25.187Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c855d200-9a20-4331-8106-18c76eef9531",
+        "title": "Science Forum",
+        "description": "Explore the wonders of science and engage in scientific discussions",
+        "created_at": "2023-08-10T12:40:56.609Z",
+        "updated_at": "2023-08-11T00:20:34.965Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "af0139a0-dac8-4331-8573-2c0cb2a0169c",
+        "title": "Music Festival",
+        "description": "Experience the best music performances at our annual music festival",
+        "date": "2023-08-10T16:19:04.789Z",
+        "created_at": "2023-08-10T18:01:28.865Z",
+        "updated_at": "2023-08-10T22:34:14.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a10154e6-d005-4570-8a0c-4e386ee2566e",
+        "title": "Charity Gala",
+        "description": "Join us for a glamorous charity gala supporting a great cause",
+        "date": "2023-08-11T01:41:43.490Z",
+        "created_at": "2023-08-10T20:24:31.547Z",
+        "updated_at": "2023-08-10T16:06:31.287Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2fc9001e-a0a6-44cb-906c-5646df71e79f",
+        "title": "Tech Conference",
+        "description": "Stay up-to-date with the latest tech trends at our tech conference",
+        "date": "2023-08-10T18:41:39.889Z",
+        "created_at": "2023-08-10T20:56:14.984Z",
+        "updated_at": "2023-08-11T09:35:11.177Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3177078-c619-40d9-baae-af47855a39ce",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our art exhibition",
+        "date": "2023-08-11T01:54:28.636Z",
+        "created_at": "2023-08-10T18:29:57.681Z",
+        "updated_at": "2023-08-10T17:34:28.409Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3ddbaab-19a6-43b0-81ca-e01de5ccccce",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our sports tournament",
+        "date": "2023-08-11T08:29:53.444Z",
+        "created_at": "2023-08-11T09:52:02.034Z",
+        "updated_at": "2023-08-11T09:44:03.495Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "b63e8841-be9c-4134-b8ec-e1c97650214a",
+        "name": "Alex",
+        "description": "Meet Alex, your friendly chat bot ready to assist you",
+        "created_at": "2023-08-10T14:57:12.267Z",
+        "updated_at": "2023-08-10T18:25:17.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "436066ff-325f-4a18-979f-83f50cc84fb6",
+        "name": "Sophia",
+        "description": "Sophia is here to answer all your questions and provide support",
+        "created_at": "2023-08-10T20:20:33.506Z",
+        "updated_at": "2023-08-10T15:49:23.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dec0a6bc-25ac-4f1e-a1bf-0bc9f8252d30",
+        "name": "Max",
+        "description": "Max is a knowledgeable chat bot with a wide range of expertise",
+        "created_at": "2023-08-11T02:47:47.349Z",
+        "updated_at": "2023-08-10T16:51:56.800Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "464b4f0f-6735-45c7-b8a2-1c7df3d6fdd9",
+        "name": "Lily",
+        "description": "Lily is a helpful chat bot designed to make your life easier",
+        "created_at": "2023-08-11T05:52:50.853Z",
+        "updated_at": "2023-08-10T14:35:14.829Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50acd123-3a13-427a-9cf3-9ef5103a616e",
+        "name": "Charlie",
+        "description": "Charlie is a reliable chat bot that can assist you with various tasks",
+        "created_at": "2023-08-10T18:27:48.431Z",
+        "updated_at": "2023-08-11T07:57:42.791Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "836584ee-ea43-4db9-a9e2-5406b10779f7",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips for your next adventure",
+        "created_at": "2023-08-10T20:29:15.087Z",
+        "updated_at": "2023-08-10T21:49:49.076Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2adeca64-70fb-4c31-84cf-27d8cbf9b7b7",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and healthy recipes for a balanced lifestyle",
+        "created_at": "2023-08-10T16:43:12.247Z",
+        "updated_at": "2023-08-10T20:21:06.353Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8203a97e-83ad-424a-a9ea-a2a43150fbdd",
+        "title": "Career Advice",
+        "content": "Get valuable career advice to advance in your professional life",
+        "created_at": "2023-08-11T02:55:16.292Z",
+        "updated_at": "2023-08-10T20:57:33.625Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "445ad1c2-64e4-4a39-9a3f-b661a758c75f",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for your home decor with our creative ideas",
+        "created_at": "2023-08-10T16:18:53.035Z",
+        "updated_at": "2023-08-10T21:23:12.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "666a6f3e-c476-4dc8-aa36-53e90b9a509f",
+        "title": "Book Recommendations",
+        "content": "Get recommendations for must-read books from our avid readers",
+        "created_at": "2023-08-11T01:34:52.089Z",
+        "updated_at": "2023-08-10T16:29:55.703Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1e74c3e4-4174-4489-96b2-f9447ad81251",
+        "email": "Julianne67@hotmail.com",
+        "firstName": "Rhea",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19254379",
+        "tenantId": null
+      },
+      {
+        "reference": "ae85382a-e524-43d0-8c3e-9f3b94b81d7b",
+        "email": "Arvid.Barton59@hotmail.com",
+        "firstName": "Buster",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/722.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6174bf08-ec4f-4ebe-9de7-711ef722af43",
+        "email": "Ceasar.Franey@hotmail.com",
+        "firstName": "Verona",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46658577",
+        "tenantId": null
+      },
+      {
+        "reference": "d9ad4a50-b097-426e-a98f-fb4713cb731a",
+        "email": "Dagmar69@hotmail.com",
+        "firstName": "Alden",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86215562",
+        "tenantId": null
+      },
+      {
+        "reference": "dee91149-115c-4393-9190-7b6cce9c1da0",
+        "email": "Natasha.Weissnat96@gmail.com",
+        "firstName": "Alessandra",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39077440",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vlog": [
+      {
+        "id": "8e933ab5-5cef-4ce9-baad-b7a96a354c51",
+        "title": "Travel Vlog",
+        "url": "https://www.youtube.com/travelvlog",
+        "created_at": "2023-08-11T01:39:22.915Z",
+        "updated_at": "2023-08-11T09:26:54.157Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3de3e33b-77b8-424c-b3a2-111d6125bb07",
+        "title": "Food Vlog",
+        "url": "https://www.youtube.com/foodvlog",
+        "created_at": "2023-08-10T14:15:32.200Z",
+        "updated_at": "2023-08-10T11:26:21.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feb19d05-149a-4b44-8de3-f821f8dcab06",
+        "title": "Fitness Vlog",
+        "url": "https://www.youtube.com/fitnessvlog",
+        "created_at": "2023-08-11T06:44:01.233Z",
+        "updated_at": "2023-08-10T14:41:29.991Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff006334-b0d4-4bcb-b5f4-83123681fb80",
+        "title": "Fashion Vlog",
+        "url": "https://www.youtube.com/fashionvlog",
+        "created_at": "2023-08-10T13:42:47.494Z",
+        "updated_at": "2023-08-11T11:06:13.733Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eaad23fe-537f-46fe-89f0-e8e31cb2b21e",
+        "title": "Gaming Vlog",
+        "url": "https://www.youtube.com/gamingvlog",
+        "created_at": "2023-08-11T11:01:48.479Z",
+        "updated_at": "2023-08-10T23:43:19.999Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "reward": [
+      {
+        "id": "8e13b862-da31-4167-8e3c-d783b92ef101",
+        "title": "Free Gift",
+        "description": "Get a free gift with your purchase",
+        "created_at": "2023-08-11T11:14:20.333Z",
+        "updated_at": "2023-08-10T15:37:19.753Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2087a1b1-660c-4054-98ef-65c45b35341e",
+        "title": "Exclusive Discount",
+        "description": "Enjoy an exclusive discount on your next order",
+        "created_at": "2023-08-11T10:14:56.036Z",
+        "updated_at": "2023-08-10T21:23:17.872Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "704c57ba-9f84-4e95-b1b6-a1dea2f9a8d9",
+        "title": "VIP Access",
+        "description": "Get VIP access to exclusive events",
+        "created_at": "2023-08-10T15:31:07.228Z",
+        "updated_at": "2023-08-10T18:20:29.621Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9beaa2c1-12ed-4c7a-90a2-19027cabd6bd",
+        "title": "Special Offer",
+        "description": "Take advantage of a special offer for our loyal customers",
+        "created_at": "2023-08-11T07:27:07.340Z",
+        "updated_at": "2023-08-10T18:27:06.939Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea8c50bc-4db3-485f-ac03-4c00d5e490e2",
+        "title": "Limited Edition",
+        "description": "Get your hands on a limited edition item",
+        "created_at": "2023-08-10T13:36:48.079Z",
+        "updated_at": "2023-08-10T22:11:05.655Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "news": [
+      {
+        "id": "0a2968af-4125-44c3-b6ed-0ca1ab81c059",
+        "title": "Breaking News",
+        "content": "Stay informed with the latest breaking news",
+        "created_at": "2023-08-11T02:18:14.335Z",
+        "updated_at": "2023-08-11T02:16:21.788Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20e7a1d1-21fc-4aa3-acf3-57c25f82b301",
+        "title": "Latest Updates",
+        "content": "Get the latest updates on current events",
+        "created_at": "2023-08-11T11:16:25.707Z",
+        "updated_at": "2023-08-11T00:11:19.288Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97a26684-e373-4e96-8b54-70d015084f97",
+        "title": "In-Depth Analysis",
+        "content": "Read in-depth analysis on important topics",
+        "created_at": "2023-08-10T15:01:27.382Z",
+        "updated_at": "2023-08-10T22:32:16.173Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "152bda03-e636-4042-a37f-34ed60b457ee",
+        "title": "Top Stories",
+        "content": "Discover the top stories making headlines",
+        "created_at": "2023-08-11T01:46:28.343Z",
+        "updated_at": "2023-08-10T16:21:09.279Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2cf2a8d-e522-4977-9edf-6b932295ecb3",
+        "title": "Exclusive Report",
+        "content": "Access exclusive reports from our journalists",
+        "created_at": "2023-08-10T20:18:55.301Z",
+        "updated_at": "2023-08-11T05:32:03.728Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "forum": [
+      {
+        "id": "8ab712c0-5d0b-4a30-8c07-2d72414c7317",
+        "title": "Technology Forum",
+        "description": "Discuss the latest trends in technology",
+        "created_at": "2023-08-10T20:12:15.241Z",
+        "updated_at": "2023-08-11T10:40:47.131Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb09ca4a-53b5-4585-bd02-f412f1c97ae4",
+        "title": "Sports Forum",
+        "description": "Engage in conversations about your favorite sports",
+        "created_at": "2023-08-11T00:58:22.126Z",
+        "updated_at": "2023-08-11T00:48:03.865Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67fdc621-f1c9-42f8-9317-b8821178b219",
+        "title": "Music Forum",
+        "description": "Share your love for music with fellow enthusiasts",
+        "created_at": "2023-08-11T01:47:54.476Z",
+        "updated_at": "2023-08-11T03:34:23.223Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a09255da-a0b1-40d3-8ab0-cdc0cf826a18",
+        "title": "Art Forum",
+        "description": "Connect with artists and discuss various art forms",
+        "created_at": "2023-08-10T11:30:51.370Z",
+        "updated_at": "2023-08-11T05:20:32.213Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99035432-e6d4-4cc1-825e-d456d7702c49",
+        "title": "Science Forum",
+        "description": "Explore the wonders of science and engage in scientific discussions",
+        "created_at": "2023-08-10T14:27:58.397Z",
+        "updated_at": "2023-08-10T23:44:05.565Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "event": [
+      {
+        "id": "4c6cf1c1-7c9e-4c7e-aa4a-fb079918df82",
+        "title": "Music Festival",
+        "description": "Experience the best music performances at our annual music festival",
+        "date": "2023-08-11T08:01:43.773Z",
+        "created_at": "2023-08-11T00:24:46.345Z",
+        "updated_at": "2023-08-10T18:04:08.018Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8478ff47-262a-42cc-b43a-533b7758ac4d",
+        "title": "Charity Gala",
+        "description": "Join us for a glamorous charity gala supporting a great cause",
+        "date": "2023-08-10T14:45:47.250Z",
+        "created_at": "2023-08-11T01:44:42.677Z",
+        "updated_at": "2023-08-11T02:09:07.421Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c9a885d-f959-4bda-84a0-0acec577ce52",
+        "title": "Tech Conference",
+        "description": "Stay up-to-date with the latest tech trends at our tech conference",
+        "date": "2023-08-10T11:56:17.206Z",
+        "created_at": "2023-08-11T01:14:13.871Z",
+        "updated_at": "2023-08-10T21:28:00.054Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67f61427-9dd6-4ae6-89d2-5f9e1e14edaa",
+        "title": "Art Exhibition",
+        "description": "Immerse yourself in the world of art at our art exhibition",
+        "date": "2023-08-11T09:41:07.898Z",
+        "created_at": "2023-08-10T19:48:25.037Z",
+        "updated_at": "2023-08-11T03:30:52.476Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56d1c13e-3ce3-44b4-95fc-923d445d4fff",
+        "title": "Sports Tournament",
+        "description": "Witness thrilling sports action at our sports tournament",
+        "date": "2023-08-10T18:37:03.078Z",
+        "created_at": "2023-08-10T22:17:29.318Z",
+        "updated_at": "2023-08-10T17:37:47.711Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "chat_bot": [
+      {
+        "id": "22e58b23-baf4-4d67-80cb-647f4a8aa1ee",
+        "name": "Alex",
+        "description": "Meet Alex, your friendly chat bot ready to assist you",
+        "created_at": "2023-08-11T04:30:05.250Z",
+        "updated_at": "2023-08-11T05:26:08.282Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69ebcf4e-460a-4952-8a80-b50cbd4f5886",
+        "name": "Sophia",
+        "description": "Say hello to Sophia, the intelligent chat bot at your service",
+        "created_at": "2023-08-11T11:13:23.650Z",
+        "updated_at": "2023-08-10T11:44:55.149Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67344368-a2e2-4659-a581-d28cd94a5e52",
+        "name": "Max",
+        "description": "Max is here to help you with any questions or concerns",
+        "created_at": "2023-08-10T16:53:19.786Z",
+        "updated_at": "2023-08-11T05:58:20.036Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85231463-c20c-4401-8f0b-4c89cbf337a4",
+        "name": "Luna",
+        "description": "Luna is a knowledgeable chat bot here to provide support",
+        "created_at": "2023-08-11T03:29:12.851Z",
+        "updated_at": "2023-08-11T05:43:55.814Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b3730b9-57e8-4101-9b7a-947c0849f00a",
+        "name": "Leo",
+        "description": "Leo is a reliable chat bot designed to make your life easier",
+        "created_at": "2023-08-10T21:16:37.819Z",
+        "updated_at": "2023-08-11T06:20:01.767Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "78be023b-49d4-40a6-ada7-b626ffc0c368",
+        "title": "Travel Tips",
+        "content": "Discover useful travel tips for your next adventure",
+        "created_at": "2023-08-11T11:18:14.271Z",
+        "updated_at": "2023-08-10T22:49:13.843Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "619e87b8-4838-4460-84dc-8c8bba5a7ed1",
+        "title": "Healthy Recipes",
+        "content": "Explore delicious and healthy recipes for a balanced lifestyle",
+        "created_at": "2023-08-11T01:44:30.373Z",
+        "updated_at": "2023-08-10T17:54:32.802Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc32184a-ff54-424a-bc21-119308829012",
+        "title": "Career Advice",
+        "content": "Get valuable career advice to advance in your profession",
+        "created_at": "2023-08-10T23:18:06.326Z",
+        "updated_at": "2023-08-11T03:20:46.061Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dea34132-4872-4f05-9a1d-ffb8e3749374",
+        "title": "Home Decor Ideas",
+        "content": "Find inspiration for your home decor with creative ideas",
+        "created_at": "2023-08-10T23:02:10.461Z",
+        "updated_at": "2023-08-10T13:57:10.861Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5f31b7a-8d11-4119-99b2-c22d50eac3de",
+        "title": "Book Recommendations",
+        "content": "Get lost in captivating stories with our book recommendations",
+        "created_at": "2023-08-11T04:20:30.123Z",
+        "updated_at": "2023-08-11T01:59:10.089Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dddf012d-f25a-4709-92c5-feff4892bb2d",
+        "email": "Calista20@yahoo.com",
+        "firstName": "Theodora",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19000785",
+        "tenantId": null
+      },
+      {
+        "reference": "fcb699bf-5020-4ab0-a86e-9cd19bfddf41",
+        "email": "Adolf67@yahoo.com",
+        "firstName": "Irwin",
+        "lastName": "Collins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24865955",
+        "tenantId": null
+      },
+      {
+        "reference": "1b18b7b3-0504-4dd6-898b-521f5bc693bf",
+        "email": "Dakota66@hotmail.com",
+        "firstName": "Amparo",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/221.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7b3e1894-bffb-4aa3-9871-a511eb2046e6",
+        "email": "Jaime.Nader24@hotmail.com",
+        "firstName": "Theron",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62256364",
+        "tenantId": null
+      },
+      {
+        "reference": "f638701e-4f79-4d46-8eeb-c24814f7c9c1",
+        "email": "Zachariah_Feil2@gmail.com",
+        "firstName": "Rico",
+        "lastName": "Wilkinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36531276",
+        "tenantId": null
+      }
+    ]
+  }
+]
